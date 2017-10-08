@@ -1,0 +1,1 @@
+[8] Undefined index: file ошибка в строке 149 файла C:\xampp\htdocs\Akscorp\uploadImage.php
